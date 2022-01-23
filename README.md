@@ -1,6 +1,11 @@
 ### Olá, Mundo! Meu nome é Magnum, sou desenvolvedor de software!
 
+
+- 🔭 Eu atualmente tenho muito interesse em trabalhar em desenvolvimento Full Stack
+- 🌱 Estou estudando muito Linux recentemente, mas às vezes reviso alguns conceitos das linguagens de programação que aprendi no Curso Técnico em TI da Universidade Federal de Viçosa - Campus Florestal
+- 
   
+ Algumas das minhas competências: 
 <div style="display: inline_block"><br>
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -20,7 +25,3 @@
  
 </div>
 
- 
-
-- 🔭 Eu atualmente tenho muito interesse em trabalhar em desenvolvimento Full Stack
-- 🌱 Estou estudando muito Linux recentemente, mas às vezes reviso alguns conceitos das linguagens de programação que aprendi no Curso Técnico em TI da Universidade Federal de Viçosa - Campus Florestal
