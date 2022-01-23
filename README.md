@@ -4,12 +4,12 @@
 - 🔭 Eu atualmente tenho muito interesse em trabalhar em desenvolvimento Full Stack
 - 🌱 Estou estudando muito Linux recentemente, mas às vezes reviso alguns conceitos das linguagens de programação que aprendi no Curso Técnico em TI da Universidade Federal de Viçosa - Campus Florestal
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
   <a href="https://github.com/MagnumJulio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagnumJulio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnumJulio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
