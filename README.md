@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu atualmente tenho muito interesse em trabalhar em desenvolvimento Full Stack
-- 🌱 Estou estudando muito Linux recentemente, mas também reviso alguns conceitos das linguagens de programação que aprendi no Curso Técnico em TI da Universidade Federal de Viçosa - Campus Florestal
+- 🌱 Estou estudando muito Python recentemente, mas também reviso alguns conceitos das linguagens de programação que aprendi no Curso Técnico em TI da Universidade Federal de Viçosa - Campus Florestal
 
   
  Algumas das minhas competências: 
