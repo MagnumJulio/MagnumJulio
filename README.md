@@ -1,8 +1,8 @@
 ### Olá, Mundo! Meu nome é Magnum, sou desenvolvedor de software!
 
 
-- 🔭 Eu atualmente tenho muito interesse em trabalhar em desenvolvimento Full Stack
-- 🌱 Estou estudando muito Python recentemente, mas também reviso alguns conceitos das linguagens de programação que aprendi no Curso Técnico em TI da Universidade Federal de Viçosa - Campus Florestal
+- 🔭 Estudante de Economia da UFRJ
+- 🌱 Gosta de programação, mas amaria muito mais aplicar o melhor dos mundos do Comercial e do Operacional
 
   
  Algumas das minhas competências: 
